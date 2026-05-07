@@ -57,15 +57,65 @@ Currently working across multiple ventures including **TSJ Diversified Group**, 
 
 ## 💻 Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | TypeScript, JavaScript, Python, PHP, C++, Dart |
-| **Frameworks & UI** | React, Next.js, Tailwind CSS, Flutter, Shadcn UI |
-| **Backend & APIs** | Node.js, .NET, PHP, REST APIs |
-| **Cloud & DevOps** | AWS, Vercel, Docker, Supabase, Firebase, Cloudflare |
-| **Database** | PostgreSQL, MongoDB, MySQL, Firebase Firestore |
-| **AI/ML** | Genkit (Google Gemini), LangChain, Ollama |
-| **Design & Tools** | Figma, Adobe XD, Photoshop, Illustrator, Git, VS Code |
+### ⚡ Core Stack
+
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api?type=orbit&text=My%20Stack&slugs=typescript,react,nextdotjs,tailwindcss,nodedotjs,postgresql,mongodb,docker,figma,amazonaws,supabase&size=400&bgColor=0d1117&textColor=58a6ff&iconColor=ffffff" />
+</p>
+
+### 🛠️ By Category
+
+**Languages & Frameworks**
+
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=typescript&text=TypeScript&highlight=true&textColor=ffffff&iconColor=3178C6&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=javascript&text=JavaScript&highlight=true&textColor=ffffff&iconColor=F7DF1E&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=python&text=Python&highlight=true&textColor=ffffff&iconColor=3776AB&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=php&text=PHP&highlight=true&textColor=ffffff&iconColor=777BB4&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=dotnet&text=.NET&highlight=true&textColor=ffffff&iconColor=512BD4&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=dart&text=Dart&highlight=true&textColor=ffffff&iconColor=0175C2&bgColor=0d1117" />
+</p>
+
+**Frontend & UI**
+
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=react&text=React&highlight=true&textColor=ffffff&iconColor=61DAFB&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=nextdotjs&text=Next.js&highlight=true&textColor=ffffff&iconColor=000000&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=tailwindcss&text=Tailwind&highlight=true&textColor=ffffff&iconColor=06B6D4&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=flutter&text=Flutter&highlight=true&textColor=ffffff&iconColor=02569B&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=vite&text=Vite&highlight=true&textColor=ffffff&iconColor=646CFF&bgColor=0d1117" />
+</p>
+
+**Backend & Cloud**
+
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=nodedotjs&text=Node.js&highlight=true&textColor=ffffff&iconColor=339933&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=amazonaws&text=AWS&highlight=true&textColor=ffffff&iconColor=232F3E&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=docker&text=Docker&highlight=true&textColor=ffffff&iconColor=2496ED&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=vercel&text=Vercel&highlight=true&textColor=ffffff&iconColor=000000&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=supabase&text=Supabase&highlight=true&textColor=ffffff&iconColor=3ECF8E&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=firebase&text=Firebase&highlight=true&textColor=ffffff&iconColor=DD2C00&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=cloudflare&text=Cloudflare&highlight=true&textColor=ffffff&iconColor=F38020&bgColor=0d1117" />
+</p>
+
+**Databases**
+
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=postgresql&text=PostgreSQL&highlight=true&textColor=ffffff&iconColor=4169E1&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=mongodb&text=MongoDB&highlight=true&textColor=ffffff&iconColor=47A248&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=mysql&text=MySQL&highlight=true&textColor=ffffff&iconColor=4479A1&bgColor=0d1117" />
+</p>
+
+**Design & Tools**
+
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=figma&text=Figma&highlight=true&textColor=ffffff&iconColor=F24E1E&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=adobexd&text=Adobe XD&highlight=true&textColor=ffffff&iconColor=FF61F6&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=adobephotoshop&text=Photoshop&highlight=true&textColor=ffffff&iconColor=31A8FF&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=adobeillustrator&text=Illustrator&highlight=true&textColor=ffffff&iconColor=FF9A00&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=git&text=Git&highlight=true&textColor=ffffff&iconColor=F05032&bgColor=0d1117" />
+  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=visualstudiocode&text=VS Code&highlight=true&textColor=ffffff&iconColor=007ACC&bgColor=0d1117" />
+</p>
 
 ---
 
