@@ -7,16 +7,16 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://linkedin.com/in/samuelbyalugaba">
+<a href="https://linkedin.com/in/samuelbyalugaba" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://samuelbyalugaba.com">
+<a href="https://samuelbyalugaba.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 <a href="mailto:hi@samuelbyalugaba.com">
   <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/samuelbyalugaba">
+<a href="https://github.com/samuelbyalugaba" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -29,7 +29,9 @@
 <br/>
 <br/>
 
-<em>Building systems that are user intuitive, scalable, and performant under pressure ⚡</em>
+<h3>
+  Building systems that are user intuitive, scalable and performant under pressure ⚡
+</h3>
 
 </div>
 
@@ -49,73 +51,23 @@ Currently working across multiple ventures including **TSJ Diversified Group**, 
 
 ## 🧠 What I'm Optimizing For (My "Engineering Loop")
 
-- Simple interfaces, strong structure, measurable outcomes
-- Build the minimum, iterate with instrumentation, optimize what matters
-- Prefer proven architecture for core systems, sharp tools at the edges
+- **Simple interfaces** → strong structure → measurable outcomes
+- Build the **minimum** that ships, then iterate with instrumentation
+- Prefer **proven architecture** for the core, and **sharp tools** at the edges (AI, real-time systems, UX polish)
 
 ---
 
 ## 💻 Tech Stack
 
-### ⚡ Core Stack
-
-<p align="center">
-  <img src="https://tech-stack.wontory.dev/api?type=orbit&text=My%20Stack&slugs=typescript,react,nextdotjs,tailwindcss,nodedotjs,postgresql,mongodb,docker,figma,amazonaws,supabase&size=400&bgColor=0d1117&textColor=58a6ff&iconColor=ffffff" />
-</p>
-
-### 🛠️ By Category
-
-**Languages & Frameworks**
-
-<p align="center">
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=typescript&text=TypeScript&highlight=true&textColor=ffffff&iconColor=3178C6&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=javascript&text=JavaScript&highlight=true&textColor=ffffff&iconColor=F7DF1E&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=python&text=Python&highlight=true&textColor=ffffff&iconColor=3776AB&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=php&text=PHP&highlight=true&textColor=ffffff&iconColor=777BB4&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=dotnet&text=.NET&highlight=true&textColor=ffffff&iconColor=512BD4&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=dart&text=Dart&highlight=true&textColor=ffffff&iconColor=0175C2&bgColor=0d1117" />
-</p>
-
-**Frontend & UI**
-
-<p align="center">
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=react&text=React&highlight=true&textColor=ffffff&iconColor=61DAFB&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=nextdotjs&text=Next.js&highlight=true&textColor=ffffff&iconColor=000000&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=tailwindcss&text=Tailwind&highlight=true&textColor=ffffff&iconColor=06B6D4&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=flutter&text=Flutter&highlight=true&textColor=ffffff&iconColor=02569B&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=vite&text=Vite&highlight=true&textColor=ffffff&iconColor=646CFF&bgColor=0d1117" />
-</p>
-
-**Backend & Cloud**
-
-<p align="center">
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=nodedotjs&text=Node.js&highlight=true&textColor=ffffff&iconColor=339933&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=amazonaws&text=AWS&highlight=true&textColor=ffffff&iconColor=232F3E&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=docker&text=Docker&highlight=true&textColor=ffffff&iconColor=2496ED&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=vercel&text=Vercel&highlight=true&textColor=ffffff&iconColor=000000&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=supabase&text=Supabase&highlight=true&textColor=ffffff&iconColor=3ECF8E&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=firebase&text=Firebase&highlight=true&textColor=ffffff&iconColor=DD2C00&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=cloudflare&text=Cloudflare&highlight=true&textColor=ffffff&iconColor=F38020&bgColor=0d1117" />
-</p>
-
-**Databases**
-
-<p align="center">
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=postgresql&text=PostgreSQL&highlight=true&textColor=ffffff&iconColor=4169E1&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=mongodb&text=MongoDB&highlight=true&textColor=ffffff&iconColor=47A248&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=mysql&text=MySQL&highlight=true&textColor=ffffff&iconColor=4479A1&bgColor=0d1117" />
-</p>
-
-**Design & Tools**
-
-<p align="center">
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=figma&text=Figma&highlight=true&textColor=ffffff&iconColor=F24E1E&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=adobexd&text=Adobe XD&highlight=true&textColor=ffffff&iconColor=FF61F6&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=adobephotoshop&text=Photoshop&highlight=true&textColor=ffffff&iconColor=31A8FF&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=adobeillustrator&text=Illustrator&highlight=true&textColor=ffffff&iconColor=FF9A00&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=git&text=Git&highlight=true&textColor=ffffff&iconColor=F05032&bgColor=0d1117" />
-  <img src="https://tech-stack.wontory.dev/api?type=badge&slug=visualstudiocode&text=VS Code&highlight=true&textColor=ffffff&iconColor=007ACC&bgColor=0d1117" />
-</p>
+| Category | Stack |
+|----------|-------|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
+| **Frameworks & UI** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase Firestore](https://img.shields.io/badge/Firestore-DD2C00?style=for-the-badge&logo=firebase&logoColor=white) |
+| **AI/ML** | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) |
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 ---
 
@@ -123,9 +75,9 @@ Currently working across multiple ventures including **TSJ Diversified Group**, 
 
 | Company | Role | Stack | Key Impact |
 |---------|------|-------|------------|
-| **TSJ Diversified Group** | Co-Founder & COO | Full-Stack, AWS, Firebase | Leads operational strategy, digital transformation, and technical architecture across a multi-sector conglomerate |
-| **Masai Adventures** | Managing Partner | Next.js, Supabase, Marketing Systems | Built brand positioning, web platform, marketing funnels, and experience design from scratch |
-| **Jumba Realty** | Founder & Managing Director | Full-Stack Development | Built brand, business model, service structure, and digital presence from zero |
+| **TSJ Diversified Group** | Co-Founder & COO | Full-Stack, AWS, Firebase | Leads operational strategy, digital transformation, and technical architecture across a multi-sector conglomerate spanning IT, agriculture, real estate, and energy |
+| **Masai Adventures** | Managing Partner | Next.js, Supabase, Marketing Systems | Built brand positioning, web platform, marketing funnels, and experience design from scratch for a premium tourism company |
+| **Jumba Realty** | Founder & Managing Director | Full-Stack Development | Built brand, business model, service structure, and digital presence from zero for a real estate brokerage |
 
 ---
 
@@ -144,12 +96,12 @@ Currently working across multiple ventures including **TSJ Diversified Group**, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelbyalugaba&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=samuelbyalugaba&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelbyalugaba&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=samuelbyalugaba&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbyalugaba&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbyalugaba&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&langs_count=6" height="180"/>
 </p>
 
 ---
@@ -157,7 +109,7 @@ Currently working across multiple ventures including **TSJ Diversified Group**, 
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelbyalugaba&theme=tokyonight&hide_border=true&radius=12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelbyalugaba&theme=tokyonight&hide_border=true&radius=12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true" />
 </p>
 
 ---
@@ -168,7 +120,7 @@ Currently working across multiple ventures including **TSJ Diversified Group**, 
 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
 
-<a href="https://linkedin.com/in/samuelbyalugaba">
+<a href="https://linkedin.com/in/samuelbyalugaba" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hi@samuelbyalugaba.com">
